@@ -4,6 +4,11 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+// Get a reference to the modal element
+const modal = document.getElementById('modal');
+
+// By default, hide the modal using CSS
+modal.classList.add('hidden');
 
 
 
